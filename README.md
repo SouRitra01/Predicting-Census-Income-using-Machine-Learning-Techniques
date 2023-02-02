@@ -18,3 +18,4 @@ In this project, I applied machine learning techniques to predict the annual inc
 
 ## Conclusion:
 The results of this project demonstrated my ability to apply machine learning techniques to a real-world problem and extract meaningful insights from data. The model developed in this project could be used to predict the income of individuals and support decision-making in various industries. This project showcases my technical skills in Python, data analysis, and machine learning.
+
